@@ -1,0 +1,121 @@
+body {
+    background: #000000;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+h1, p, h2 {
+    color: #ffffff;
+}
+
+.titulo-iguanas {
+    font-size: 3.1rem;
+    margin: auto;
+}
+
+
+.bg-header {
+    top: 73px;
+    left: 0px;
+    width: 100%;
+    height: auto;
+
+
+}
+
+.desc-section {
+    display: inline-block;
+    padding: 75px;
+}
+
+.descripcion {
+    height: 340px;
+}
+
+.text-desc {
+    display: inline-block;
+    width: 475px;
+    padding-left: 150px;
+    padding-right: 200px;
+    text-align: left;
+    font-weight: 300;
+}
+
+.iguana-1 {
+    width: 399px;
+    height: auto;
+    }
+
+.imagenes {
+    display: inline-block;
+    margin: 16px;
+
+}
+
+#iguana-2 {
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+}
+
+#iguana-3 {
+    top: 1561px;
+    left: 482px;
+    width: 316px;
+    height: 202px;
+}
+
+#iguana-4 {
+    top: 1561px;
+    left: 814px;
+    width: 316px;
+    height: 202px;
+}
+
+.seccion_imagenes {
+    margin: 4.5rem;
+    
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 50px;
+}
+.icons-section h2 {
+    font-weight: 500;
+    font-size: 40px;
+    margin-bottom: 1em;
+}
+.icons {
+    display: inline-block;
+    width: 30%;
+}
+
+.icons p {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+h4 {
+    font-weight: 300;
+}
+
+footer {
+    background-color: #1E1A13;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+p {
+    font-size: 18px;
+}
